@@ -4,6 +4,12 @@ Some automator scripts to make your PDF workflow easier on MacOS.
 
 ![menu](images/quick_actions.png "Quick Actions")
 
+# Installation
+* Install [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF)
+    * Install [Homebrew](https://brew.sh/)
+    * `brew install ocrmypdf`
+* [Download this repo](https://github.com/jinziqi/mac-pdf-automations/archive/master.zip)
+
 # Workflows
 
 ## Services/OCR.workflow
